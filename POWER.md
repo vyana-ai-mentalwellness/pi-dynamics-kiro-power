@@ -1,16 +1,16 @@
 ---
 name: "pi-dynamics"
-displayName: "Pi Dynamics — Everything Claude Code for Kiro"
-description: "Complete developer toolkit ported from Everything Claude Code (ECC) to Kiro. Includes 16 specialized agents, 18 skills, 16 steering files, 10 IDE hooks, and shell scripts for TDD, code review, security, and multi-language development workflows."
+displayName: "Pi Dynamics — Complete developer tool kit for Kiro"
+description: "Complete developer toolkit to Kiro. Includes 16 specialized agents, 18 skills, 16 steering files, 10 IDE hooks, and shell scripts for TDD, code review, security, and multi-language development workflows."
 keywords: ["ecc", "everything-claude-code", "agents", "skills", "hooks", "steering", "tdd", "code-review", "security", "pi-dynamics"]
-author: "Himanshu Sharma, Sungmin Hong"
+author: "Abhilash M"
 ---
 
 # Pi Dynamics — Everything Claude Code for Kiro
 
 ## Overview
 
-Pi Dynamics brings the [Everything Claude Code](https://github.com/anthropics/courses/tree/master/everything-claude-code) (ECC) workflows to Kiro. It packages 16 specialized agents, 18 invocable skills, 16 steering files, 10 IDE hooks, and utility scripts into a single installable toolkit.
+Pi Dynamics brings the workflows to Kiro. It packages 16 specialized agents, 18 invocable skills, 16 steering files, 10 IDE hooks, and utility scripts into a single installable toolkit.
 
 The toolkit covers the full development lifecycle: planning, TDD, code review, security auditing, refactoring, documentation, database work, deployment, and multi-language support (TypeScript, Python, Go, Swift).
 
